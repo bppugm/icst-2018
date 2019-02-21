@@ -11,6 +11,8 @@ This is the website for The 4<sup>th</sup> International Conference on Science a
 + [@akhsin](https://github.com/akhsin)
 + [@sulish](https://github.com/sulish)
 + [@febriyanyoga](https://github.com/febriyanyoga)
++ [@imalavins](https://github.com/imalavins)
++ [@nisakusumaa](https://github.com/nisakusumaa)
 
 ### Supporting contributors
 
